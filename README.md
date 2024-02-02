@@ -2,6 +2,8 @@
 
 > typroa的图片上传脚本，针对[Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)项目，适用于macOS和Linux系统。
 
+⚠️：本脚本由AI生成不保证可用性
+
 ## 如何安装
 
 clone该项目
